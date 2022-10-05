@@ -6,7 +6,7 @@ public class App {
 		Logger logger1 = new AsteriskLogger();
 		logger1.log("This is a test");
 		System.out.println();
-		logger1.error("This is a test");
+		logger1.error("Really Really Really big Box");
 		
 		System.out.println();
 		
